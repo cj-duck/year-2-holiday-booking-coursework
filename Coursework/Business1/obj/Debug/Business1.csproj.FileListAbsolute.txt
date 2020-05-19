@@ -1,0 +1,4 @@
+C:\Users\Christopher\Desktop\Uni\Year 2\SET08119 - Object Oriented Software Development\Coursework 2\coursework2\Business1\bin\Debug\Business1.dll
+C:\Users\Christopher\Desktop\Uni\Year 2\SET08119 - Object Oriented Software Development\Coursework 2\coursework2\Business1\bin\Debug\Business1.pdb
+C:\Users\Christopher\Desktop\Uni\Year 2\SET08119 - Object Oriented Software Development\Coursework 2\coursework2\Business1\obj\Debug\Business1.dll
+C:\Users\Christopher\Desktop\Uni\Year 2\SET08119 - Object Oriented Software Development\Coursework 2\coursework2\Business1\obj\Debug\Business1.pdb
